@@ -1,159 +1,128 @@
-<div align="center">
+<h1 align="center">Hi, I'm Vishnupriyan 👋</h1>
+<h3 align="center">MERN Stack Developer | Building scalable full-stack web applications</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=220&section=header&text=VISHNUPRIYAN&fontSize=55&fontColor=00FF41&fontAlignY=38&animation=fadeIn&desc=MERN%20Stack%20Developer&descAlignY=58&descSize=18&descColor=39FF14" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;E-Commerce+%26+Shopify+Development;Building+Real-World+Full+Stack+Products" alt="Typing SVG" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=root%40vishnupriyan%3A~%24+whoami;%3E+MERN+Stack+Developer;%3E+React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;%3E+Building+e-commerce+systems+that+scale;root%40vishnupriyan%3A~%24+_" />
+<p align="center">
+  <img src="https://img.shields.io/badge/EDUCATION-BE%20ECE-6D28D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOCUS-MERN%20STACK-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BASED%20IN-INDIA-4C1D95?style=for-the-badge" />
+</p>
 
-<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vishnu-priyan-72128728b">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:svvishnupriyan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/SVVISHNU">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<img src="https://img.shields.io/badge/-BE_ECE-000000?style=for-the-badge&logo=data:image/png;base64,&logoColor=00FF41&labelColor=000000&color=0D1117" />
-<img src="https://img.shields.io/badge/EXPERIENCE-1.5%2B_YEARS-000000?style=for-the-badge&labelColor=000000&color=0D1117" />
-<img src="https://img.shields.io/badge/STATUS-BUILDING-00FF41?style=for-the-badge&labelColor=000000" />
+---
 
-<br><br>
-
-<a href="https://www.linkedin.com/in/vishnu-priyan-72128728b">
-  <img src="https://img.shields.io/badge/LINKEDIN-connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000" />
-</a>
-<a href="mailto:svvishnupriyan@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-message_me-00FF41?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000" />
-</a>
-<a href="https://github.com/SVVISHNU">
-  <img src="https://img.shields.io/badge/GITHUB-follow-00FF41?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000" />
-</a>
-
-</div>
-
-<br>
-
-```bash
-$ cat about_me.sh
-```
+### About Me
 
 ```yaml
-> name        : Vishnupriyan
-> education   : B.E. Electronics & Communication Engineering, 2025
-> role        : MERN Stack Developer @ GrowServe e-Solutions Pvt Ltd
-> experience  : 1.5+ years
-> focus       : Full-stack web dev, e-commerce systems, REST APIs
-> mindset     : Learn -> Build -> Ship -> Improve
+name: Vishnupriyan
+education: B.E. Electronics & Communication Engineering (2025)
+role: MERN Stack Developer
+experience: 1.5+ years @ GrowServe e-Solutions Pvt Ltd
+
+focus:
+  - Full Stack Web Development
+  - E-Commerce Platforms (custom + Shopify)
+  - REST API Design & Development
+
+mindset: Learn → Build → Ship → Improve
 ```
 
-I build production-style web applications end to end — schema to shipped UI. Lately I'm deep in e-commerce: auth flows, cart/checkout, payment integration, and Shopify customization. I like interfaces that look intentional, not templated.
+I'm a MERN Stack Developer who enjoys turning ideas into production-ready web products — from database schema to a polished, responsive UI. My recent focus has been e-commerce systems: authentication, cart and checkout flows, payment integration, and Shopify customization.
 
-<br>
+---
 
-<div align="center">
+### Tech Stack
 
-### `> tech_stack --list`
+**Languages & Core**
+<img src="https://skillicons.dev/icons?i=js,html,css" />
 
-<img src="https://skillicons.dev/icons?i=js,html,css,react,redux,tailwind,bootstrap&theme=dark" />
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,postman,aws,vercel&theme=dark" />
+**Frontend**
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap" />
 
-<br>
+**Backend & Database**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
-`REST APIs` `Axios` `JWT Auth` `OAuth` `Mongoose` `Cloudinary` `Shopify Liquid` `Razorpay` `Jira` `Agile/Scrum`
+**Tools & Platforms**
+<img src="https://skillicons.dev/icons?i=git,github,postman,aws,vercel" />
 
-</div>
+**Also working with:** REST APIs · Axios · JWT Authentication · OAuth · Mongoose · Cloudinary · Shopify Liquid · Razorpay · Jira · Agile/Scrum
 
-<br>
+---
 
-```bash
-$ ls -la featured_projects/
-```
+### Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**🛒 Shopify E-Commerce Store**
+Production-oriented storefront built on Shopify with custom Liquid theming, layered on a MERN backend for extended functionality — product management, authentication, cart, and order handling.
+`React.js` `Node.js` `Express.js` `MongoDB` `Shopify Liquid` `JWT`
 
-**🟢 shopify-ecommerce-store/**
-Production storefront on Shopify + custom Liquid theming, extended with a MERN backend for auth, cart, and order handling.
-`React` `Node.js` `Express` `MongoDB` `Shopify Liquid`
+**🌿 Nature's Hunt — Organic & Cosmetics Platform**
+Full-stack e-commerce platform for organic and cosmetic products, with Razorpay payment integration, product catalog, and order management.
+`React.js` `Node.js` `Express.js` `MongoDB` `Razorpay` `REST API`
 
-</td>
-<td width="50%" valign="top">
+**👕 Streetwear E-Commerce Platform** *(in progress)*
+Full MERN e-commerce build for men's streetwear, featuring a dark monochrome UI, Redux Toolkit state management with in-memory access tokens + httpOnly refresh cookies, COD checkout (Razorpay-ready), and MongoDB transactions for atomic stock management.
+`React.js` `Redux Toolkit` `Node.js` `Express.js` `MongoDB`
 
-**🟢 natures-hunt/**
-Full-stack organic & cosmetics e-commerce platform with Razorpay integration, catalog, and order management.
-`React` `Node.js` `Express` `MongoDB` `Razorpay`
+**💬 Real-Time Chat Application**
+Full-stack messaging app with real-time communication, user authentication, and a responsive interface.
+`React.js` `Node.js` `Express.js` `MongoDB` `Socket.io`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+> Add a link under each project once the repos are public/pinned — recruiters click through from here.
 
-**🟡 streetwear-store/** `in progress`
-Dark monochrome MERN e-commerce build — Redux Toolkit auth (in-memory access token + httpOnly refresh), COD checkout, MongoDB transactions for atomic stock.
-`React` `Redux Toolkit` `Node.js` `MongoDB`
+---
 
-</td>
-<td width="50%" valign="top">
-
-**🟢 realtime-chat-app/**
-Full-stack messaging app — real-time communication, auth, responsive UI.
-`React` `Node.js` `Express` `MongoDB` `Socket.io`
-
-</td>
-</tr>
-</table>
-
-<div align="center"><sub>🟢 shipped &nbsp;&nbsp; 🟡 in progress &nbsp;&nbsp; — add repo links here once pinned</sub></div>
-
-<br>
-
-```bash
-$ git log --author="Vishnupriyan" --stat
-```
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SVVISHNU&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SVVISHNU&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SVVISHNU&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=39FF14&currStreakLabel=00FF41" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SVVISHNU&theme=github-compact&bg_color=0D1117&color=00FF41&line=39FF14&point=ffffff&hide_border=true" width="100%" />
-
-</div>
-
-<br>
-
-```bash
-$ cat experience.log
-```
+### Professional Experience
 
 **MERN Stack Developer — GrowServe e-Solutions Pvt Ltd**
-`Aug 2024 – Present`
+*August 2024 – Present*
 
-```diff
-+ Built full-stack web apps using the MERN stack
-+ Shipped responsive UIs with React.js, Tailwind, Bootstrap, Material UI
-+ Designed RESTful APIs with Node.js and Express.js
-+ Modeled and optimized data with MongoDB / Mongoose
-+ Implemented JWT-based authentication and authorization
-+ Integrated payment gateways and third-party APIs
-+ Customized storefronts with Shopify and Shopify Liquid
-+ Ran Agile/Scrum sprints with Git, GitHub, and Jira
-```
+- Developing full-stack web applications using the MERN stack
+- Building responsive UIs with React.js, Tailwind CSS, Bootstrap, and Material UI
+- Designing and building RESTful APIs with Node.js and Express.js
+- Managing MongoDB/Mongoose schema design and query optimization
+- Implementing JWT-based authentication and authorization
+- Integrating payment gateways and third-party APIs
+- Customizing storefronts with Shopify and Shopify Liquid
+- Collaborating in Agile/Scrum sprints using Git, GitHub, and Jira
 
-<br>
+---
 
-<div align="center">
+### GitHub Stats
 
-### `> connect --with vishnupriyan`
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SVVISHNU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SVVISHNU&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<a href="https://www.linkedin.com/in/vishnu-priyan-72128728b">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
-</a>
-<a href="mailto:svvishnupriyan@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FF41" />
-</a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SVVISHNU&theme=tokyonight&hide_border=true" />
+</p>
 
-<br><br>
+---
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Keep+Building.+Keep+Learning.+Keep+Growing." />
+### Connect With Me
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=100&section=footer" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/vishnu-priyan-72128728b">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:svvishnupriyan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Send%20me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-</div>
+<p align="center"><i>Keep Building. Keep Learning. Keep Growing.</i></p>
