@@ -140,8 +140,8 @@ goal:
 
 ## 💼 Professional Experience
 
-**MERN Stack Developer — GrowServe e-Solutions Pvt Ltd**
-*August 2024 – Present*
+**MERN Stack Developer — WHY Global Services**
+*2025 – Present*
 
 - Developing full-stack web applications using the MERN stack
 - Building responsive UIs with React.js, Tailwind CSS, Bootstrap, and Material UI
