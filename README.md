@@ -1,14 +1,28 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=220&section=header&text=VISHNUPRIYAN&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20STACK%20DEVELOPER%20%7C%20REACT.JS%20%7C%20NODE.JS&descAlignY=58&descSize=18"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+full-stack+e-commerce+platforms;Working+with+React.js+%2B+Node.js+%2B+MongoDB;Customizing+Shopify+storefronts;Turning+ideas+into+real+projects" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=220&section=header&text=VISHNUPRIYAN&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20STACK%20DEVELOPER%20%7C%20MOTORSPORT%20TECHNOLOGY&descAlignY=58&descSize=18"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+full-stack+e-commerce+platforms;Working+with+React.js+%2B+Node.js+%2B+MongoDB;Customizing+Shopify+storefronts;Exploring+Motorsport+Data+%26+Telemetry;Building+Motorsport+Technology+Projects;ECE+%2B+Software+%2B+Motorsport" alt="Typing SVG" />
+
 <br/><br/>
+
 <img src="https://img.shields.io/badge/EDUCATION-B.E.%20ECE-000000?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/FOCUS-MERN%20STACK-000000?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/FOCUS-MERN%20%2B%20MOTORSPORT-000000?style=for-the-badge&labelColor=000000"/>
 <img src="https://img.shields.io/badge/BASED%20IN-INDIA-000000?style=for-the-badge&labelColor=000000"/>
+
 <br/><br/>
-<a href="https://www.linkedin.com/in/vishnu-priyan-72128728b"> <img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=000000"/> </a>
-<a href="mailto:svvishnupriyan@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=000000"/> </a>
-<a href="https://github.com/SVVISHNU"> <img src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/> </a>
+
+<a href="https://www.linkedin.com/in/vishnu-priyan-72128728b">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=000000"/>
+</a>
+
+<a href="mailto:svvishnupriyan@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=000000"/>
+</a>
+
+<a href="https://github.com/SVVISHNU">
+<img src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
+</a>
+
 </div>
 
 ---
@@ -24,14 +38,26 @@ focus:
   - Full Stack Web Development
   - E-Commerce Applications
   - REST API Development
+  - Motorsport Technology
+  - Motorsport Data & Telemetry
+
+motorsport_interest:
+  - Vehicle Data & Telemetry
+  - Vehicle Electronics
+  - Data Acquisition
+  - ECU & CAN Bus
+  - Lap-Time Analysis
+  - Vehicle Performance
 
 currently_learning:
   - Advanced React.js & Redux Toolkit
   - AI Integration in Web Apps
   - Cloud Deployment (AWS)
+  - Motorsport Data & Telemetry
+  - Automotive Electronics
+  - CAN Bus Fundamentals
 
 mindset: Learn → Build → Share → Improve
-```
 
 MERN Stack Developer with 1.5+ years of experience building full-stack web applications end to end — from database schema to a polished, responsive UI. My recent focus has been e-commerce systems: authentication, cart/checkout flows, payment integration, and Shopify customization.
 
@@ -88,15 +114,7 @@ Advanced Full Stack + Cloud
 
 ## 🚀 Featured Projects
 
-### 🔹 Project 01 — Shopify E-Commerce Store
-Production-oriented storefront built on Shopify with custom Liquid theming, extended with a MERN backend for product management, authentication, cart, and order handling.
-
-**Tech Stack:**
-`React.js` `Node.js` `Express.js` `MongoDB` `Shopify Liquid` `JWT`
-
----
-
-### 🔹 Project 02 — Nature's Hunt (Organic & Cosmetics Platform)
+### 🔹 Project 01 — Nature's Hunt (Organic & Cosmetics Platform)
 Full-stack e-commerce platform for organic and cosmetic products, with Razorpay payment integration, product catalog, and order management.
 
 **Tech Stack:**
@@ -104,13 +122,63 @@ Full-stack e-commerce platform for organic and cosmetic products, with Razorpay 
 
 ---
 
-### 🔹 Project 03 — Streetwear E-Commerce Platform *(in progress)*
+### 🔹 Project 02 — Streetwear E-Commerce Platform *(in progress)*
 Dark monochrome MERN e-commerce build with Redux Toolkit auth (in-memory access token + httpOnly refresh cookie), COD checkout (Razorpay-ready), and MongoDB transactions for atomic stock management.
 
 **Tech Stack:**
 `React.js` `Redux Toolkit` `Node.js` `Express.js` `MongoDB`
 
 ---
+
+### 🏎️ Project 03 — Motorsport Telemetry Web Application
+
+A motorsport-focused full-stack web application designed to visualize and analyze vehicle telemetry data.
+
+**Tech Stack:**
+`React.js` `Node.js` `Express.js` `MongoDB` `Python` `Data Visualization`
+
+**Motorsport Data:**
+- Vehicle Speed
+- RPM
+- Throttle Position
+- Brake Pressure
+- Gear
+- Engine Temperature
+- Lap Time
+- Sector Time
+- GPS Data
+- Driver Performance
+- Vehicle Performance
+
+**Dashboard Features:**
+- Telemetry data visualization
+- Speed graph
+- RPM graph
+- Throttle graph
+- Brake graph
+- Gear information
+- Engine temperature monitoring
+- Lap-time comparison
+- Sector analysis
+- Driver performance analysis
+- Vehicle performance analysis
+
+**Data Flow:**
+
+```text
+🏎️ Vehicle / Telemetry Data
+          ↓
+    Data Acquisition
+          ↓
+      Node.js API
+          ↓
+       MongoDB
+          ↓
+    React Dashboard
+          ↓
+📊 Data Visualization
+          ↓
+Driver & Vehicle Analysis
 
 ## 🎯 Current Focus
 
@@ -174,11 +242,7 @@ goal:
 
 ## 🤝 Connect With Me
 
-<div align="center">
-<a href="https://www.linkedin.com/in/vishnu-priyan-72128728b"> <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=000000"/> </a>
-<a href="mailto:svvishnupriyan@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=000000"/> </a>
-<a href="https://github.com/SVVISHNU"> <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/> </a>
-</div>
+<div align="center"> <a href="https://www.linkedin.com/in/vishnu-priyan-72128728b"> <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=000000"/> </a> <a href="mailto:svvishnupriyan@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=000000"/> </a> <a href="https://github.com/SVVISHNU"> <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/> </a> </div>
 
 ---
 
